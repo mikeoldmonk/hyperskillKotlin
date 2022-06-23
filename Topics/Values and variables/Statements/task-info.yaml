@@ -1,13 +1,5 @@
 type: choice
-is_multiple_choice: true
-options:
-- text: Every variable has a name.
-- text: It is impossible to change the value of a variable declared with the keyword
-    <b>var</b>.
-- text: In many cases, it is better to use immutable variables instead of mutable
-    ones.
-- text: It is impossible to access the value of a variable declared with the keyword
-    <b>val</b>.
+is_multiple_choice: false
 files:
 - name: src/Main.kt
   visible: true
