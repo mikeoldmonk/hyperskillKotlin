@@ -2,14 +2,36 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="17">
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-classes-java.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-classes-kotlin.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-reports-tests.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-test-results.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-tmp.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-out.main" target="11" />
       <module name="Cinema_Room_Manager.Cinema_Room_Manager-task.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Data_types-Fix_the_program.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Data_types-Statements.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Data_types-The_form_of_declaration_without_type_inference.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Data_types-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Data_types-Type_mismatch.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Data_types-Type_mismatch__1_.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Invoking_functions-Lembas.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Invoking_functions-Square_root.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Invoking_functions-The_magic_of_println.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Invoking_functions-Theory.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Overview_of_the_basic_program-Multiple_statements.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Overview_of_the_basic_program-The_eternal_truth.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Overview_of_the_basic_program-The_Hello_World_program.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Overview_of_the_basic_program-Theory.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Standard_output-Amount_on_the_account.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Standard_output-First,_second,_third.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Standard_output-Theory.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Standard_output-Tic-Tac-Toe.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_classification_of_basic_types-Max_values_of_integer_types.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_classification_of_basic_types-Size,_min_and_max.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_classification_of_basic_types-Theory.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Values_and_variables-Statements.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Values_and_variables-Swap.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Values_and_variables-Theory.main" target="11" />
