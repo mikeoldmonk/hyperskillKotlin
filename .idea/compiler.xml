@@ -11,6 +11,10 @@
       <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-tmp.main" target="11" />
       <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-out.main" target="11" />
       <module name="Cinema_Room_Manager.Cinema_Room_Manager-task.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Boolean_and_logical_operations-Expressions.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Boolean_and_logical_operations-Invitations_and_gifts.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Boolean_and_logical_operations-Program_a_Boolean_function.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Boolean_and_logical_operations-Theory.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Data_types-Fix_the_program.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Data_types-Statements.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Data_types-The_form_of_declaration_without_type_inference.main" target="11" />
@@ -43,6 +47,12 @@
       <module name="Cinema_Room_Manager.Topics-String_basics-JSON.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-String_basics-The_string_size.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-String_basics-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-String_templates-Arithmetic_expression.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-String_templates-Date_and_time_formatting.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-String_templates-How_to_write_string_templates.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-String_templates-Print_two_numbers_on_the_same_line.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-String_templates-Repetitions_and_templates.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-String_templates-Theory.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-The_classification_of_basic_types-Max_values_of_integer_types.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-The_classification_of_basic_types-Size,_min_and_max.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-The_classification_of_basic_types-Theory.main" target="11" />
