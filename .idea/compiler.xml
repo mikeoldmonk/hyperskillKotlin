@@ -52,8 +52,10 @@
       <module name="Cinema_Room_Manager.Topics-Standard_input-Theory.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Standard_output-Amount_on_the_account.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Standard_output-First,_second,_third.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Standard_output-Print_a_triangle.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Standard_output-Theory.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Standard_output-Tic-Tac-Toe.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Standard_output-What_does_the_code_print.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-String_basics-Appending_numbers_to_strings.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-String_basics-Concatenation.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-String_basics-Correct_ways_to_create_a_string.main" target="11" />
@@ -69,6 +71,11 @@
       <module name="Cinema_Room_Manager.Topics-The_classification_of_basic_types-Max_values_of_integer_types.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-The_classification_of_basic_types-Size,_min_and_max.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-The_classification_of_basic_types-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Type_conversion-Converting_to_Byte.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Type_conversion-Lie_detector.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Type_conversion-Overflow_and_crash.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Type_conversion-Program_result.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Type_conversion-Reasons.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Type_conversion-Sum_of_Longs.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Type_conversion-Theory.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Values_and_variables-Statements.main" target="11" />
