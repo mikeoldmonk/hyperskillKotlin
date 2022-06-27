@@ -21,6 +21,11 @@
       <module name="Cinema_Room_Manager.Topics-Data_types-Theory.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Data_types-Type_mismatch.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Data_types-Type_mismatch__1_.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Integers_in_action-Desks.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Integers_in_action-The_sum_of_digits.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Integers_in_action-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Integers_in_action-Underscore.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Integers_in_action-Unsigned_integers.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Invoking_functions-Lembas.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Invoking_functions-Square_root.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Invoking_functions-The_magic_of_println.main" target="11" />
@@ -32,6 +37,14 @@
       <module name="Cinema_Room_Manager.Topics-Reading_data_with_a_readln-Fix_the_input.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Reading_data_with_a_readln-Read_a_Double.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Reading_data_with_a_readln-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Relational_operators-Are_the_numbers_different.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Relational_operators-Check_the_sum.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Relational_operators-Check_the_value.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Relational_operators-Existing_operators.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Relational_operators-Find_a_suitable_input.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Relational_operators-Job_offer.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Relational_operators-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Relational_operators-What_is_the_result.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Standard_input-A_function_for_reading_data.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Standard_input-Four_numbers.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Standard_input-Statements.main" target="11" />

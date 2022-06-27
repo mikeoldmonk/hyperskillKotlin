@@ -31,6 +31,11 @@
             <option value="$PROJECT_DIR$/Topics/Data types/Theory" />
             <option value="$PROJECT_DIR$/Topics/Data types/Type mismatch" />
             <option value="$PROJECT_DIR$/Topics/Data types/Type mismatch (1)" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Desks" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/The sum of digits" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Underscore" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Unsigned integers" />
             <option value="$PROJECT_DIR$/Topics/Invoking functions/Lembas" />
             <option value="$PROJECT_DIR$/Topics/Invoking functions/Square root" />
             <option value="$PROJECT_DIR$/Topics/Invoking functions/The magic of println" />
@@ -42,6 +47,14 @@
             <option value="$PROJECT_DIR$/Topics/Reading data with a readln/Fix the input" />
             <option value="$PROJECT_DIR$/Topics/Reading data with a readln/Read a Double" />
             <option value="$PROJECT_DIR$/Topics/Reading data with a readln/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Are the numbers different" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Check the sum" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Check the value" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Existing operators" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Find a suitable input" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Job offer" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/What is the result" />
             <option value="$PROJECT_DIR$/Topics/Standard input/A function for reading data" />
             <option value="$PROJECT_DIR$/Topics/Standard input/Four numbers" />
             <option value="$PROJECT_DIR$/Topics/Standard input/Statements" />
