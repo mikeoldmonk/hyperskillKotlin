@@ -21,6 +21,12 @@
       <module name="Cinema_Room_Manager.Topics-Data_types-Theory.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Data_types-Type_mismatch.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Data_types-Type_mismatch__1_.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-If_expression-Check_a_number_is_positive.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-If_expression-Find_the_output.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-If_expression-Odd_or_even.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-If_expression-Positive,_Negative_or_Zero.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-If_expression-The_max_of_three_numbers.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-If_expression-Theory.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Integers_in_action-Desks.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Integers_in_action-The_sum_of_digits.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Integers_in_action-Theory.main" target="11" />
