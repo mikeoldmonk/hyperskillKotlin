@@ -4,11 +4,20 @@ fun main() {
     val seats = readln().toInt()
     val rows = readln().toInt()
 
-    var sum = seats * rows
-
-    if (sum <= 60) {
-        println(sum * 10)
+    if (seats > 9 || rows > 9) {
+        println("error")
     } else {
-        println((rows.floorDiv(2) * 10 * seats) + ((rows - rows.floorDiv(2)) * 8 * seats))
+
+        var sum = seats * rows
+
+        if (sum <= 60) {
+            println(sum * 10)
+        } else {
+            var firstRows = rows.floorDiv(2)
+            var secondRows = rows - firstRows
+            var sumFirst = firstRows * seats * 10
+            var sumSecond = secondRows * seats * 8
+            println(sumFirst + sumSecond)
+        }
     }
 }
