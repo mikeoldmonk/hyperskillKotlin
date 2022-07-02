@@ -1,8 +1,10 @@
 package cinema
 
 fun main() {
-    val seats = readln().toInt()
+    println("Enter the number of rows:")
     val rows = readln().toInt()
+    println("Enter the number of seats in each row:")
+    val seats = readln().toInt()
 
     if (seats > 9 || rows > 9) {
         println("error")
@@ -11,13 +13,17 @@ fun main() {
         var sum = seats * rows
 
         if (sum <= 60) {
-            println(sum * 10)
+            var sumSmall = sum * 10
+            println("Total income:")
+            println("$$sumSmall")
         } else {
             var firstRows = rows.floorDiv(2)
             var secondRows = rows - firstRows
             var sumFirst = firstRows * seats * 10
             var sumSecond = secondRows * seats * 8
-            println(sumFirst + sumSecond)
+            var sumBig = sumFirst + sumSecond
+            println("Total income:")
+            println("$$sumBig")
         }
     }
 }

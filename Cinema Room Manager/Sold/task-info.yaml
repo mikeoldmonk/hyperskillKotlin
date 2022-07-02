@@ -125,12 +125,8 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/11365#comment
-status: Failed
+status: Solved
 feedback:
-  message: |-
-    Wrong answer in test #1
-
-    At the beginning your program should ask for entering the number of rows.
-    Your output should contain &#39;Enter the number of rows:&#39;
-  time: Fri, 01 Jul 2022 20:03:35 UTC
+  message: Congratulations!
+  time: Sat, 02 Jul 2022 13:38:12 UTC
 record: -1
