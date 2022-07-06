@@ -51,6 +51,9 @@
       <module name="Cinema_Room_Manager.Topics-Relational_operators-Job_offer.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Relational_operators-Theory.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Relational_operators-What_is_the_result.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Repeating_blocks-Kotlin_x5.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Repeating_blocks-Size_of_parts.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Repeating_blocks-Theory.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Standard_input-A_function_for_reading_data.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Standard_input-Four_numbers.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Standard_input-Statements.main" target="11" />
