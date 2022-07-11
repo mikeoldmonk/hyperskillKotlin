@@ -90,6 +90,9 @@
       <module name="Cinema_Room_Manager.Topics-Values_and_variables-Statements.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Values_and_variables-Swap.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Values_and_variables-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-While_loops-Balance_checker.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-While_loops-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-While_loops-What_does_the_code_print.main" target="11" />
       <module name="Cinema_Room_Manager.util.main" target="11" />
     </bytecodeTargetLevel>
   </component>
